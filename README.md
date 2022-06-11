@@ -19,7 +19,7 @@ You can find me on [CodinGame](https://www.codingame.com/home) as [TOXICS](https
 
 My favorite projects are:
 
-[Reaction Timer Game](https://github.com/arnistoks/trenins_reaction-timer-game) Vue CLI and you can try it [here](-)
+[Reaction Timer Game](https://github.com/arnistoks/trenins_reaction-timer-game) Vue CLI
 
 [Pokemon Page](https://github.com/arnistoks/majas-darbs22_pokemons) TypeScript, CSS & React
 
