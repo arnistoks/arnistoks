@@ -6,7 +6,7 @@
 
 🔭 I’m currently working at CODELEX on cool and interesting applications.
 
-🌱 I’m currently learning TypeScript, JavaScript, React, Redux, Vue and Angular.
+🌱 I’m fully interested in TypeScript, JavaScript, React, Redux, Vue and Angular.
 
 💬 Ask me about anything, I'm happy to help.
 
