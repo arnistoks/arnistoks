@@ -19,10 +19,10 @@ You can find me on [CodinGame](https://www.codingame.com/home) as [TOXICS](https
 
 My favorite projects are:
 
-[Reaction Timer Game](https://github.com/arnistoks/trenins_reaction-timer-game) Vue CLI
+[Reaction Timer Game](https://github.com/arnistoks/reaction-timer-game) Vue CLI
 
-[Pokemon Page](https://github.com/arnistoks/majas-darbs22_pokemons) TypeScript, CSS & React
+[Pokemon Page](https://github.com/arnistoks/MD22_pokemons) TypeScript, CSS & React
 
-[Swedbank Website](https://github.com/arnistoks/majas-darbs21_swedbank) TypeScript, CSS & React
+[Swedbank Website](https://github.com/arnistoks/MD21_swedbank) TypeScript, CSS & React
 
-[Lawnmowers Shop](https://github.com/arnistoks/majas_darbs19_redux) TypeScript, CSS & React
+[Lawnmowers Shop](https://github.com/arnistoks/MD19_redux) TypeScript, CSS & React
