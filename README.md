@@ -19,6 +19,8 @@ You can find me on [CodinGame](https://www.codingame.com/home) as [TOXICS](https
 
 My favorite projects are:
 
+[Rock Paper Scissors Lizard Spock](https://github.com/arnistoks/MD32_rock-paper-scissors-lizard-spock) TypeScript, CSS & React
+
 [Reaction Timer Game](https://github.com/arnistoks/reaction-timer-game) Vue CLI
 
 [Pokemon Page](https://github.com/arnistoks/MD22_pokemons) TypeScript, CSS & React
