@@ -23,13 +23,13 @@ My favorite projects are:
 ![rpsls](images/rpsls.gif "Rock Paper Scissors Lizard Spock")
 
 [Reaction Timer Game](https://github.com/arnistoks/reaction-timer-game) Vue CLI
-![rpsls](images/rpsls.gif "Rock Paper Scissors Lizard Spock")
+![rtg](images/reaction-timer-game.gif "Reaction Timer Game")
 
 [Pokemon Page](https://github.com/arnistoks/MD22_pokemons) TypeScript, CSS & React
-![rpsls](images/rpsls.gif "Rock Paper Scissors Lizard Spock")
+![pp](images/pokemon-page.gif "Pokemon Page")
 
 [Swedbank Website](https://github.com/arnistoks/MD21_swedbank) TypeScript, CSS & React
-![rpsls](images/rpsls.gif "Rock Paper Scissors Lizard Spock")
+![sp](images/swedbank-page.gif "Swedbank Page")
 
 [Lawnmowers Shop](https://github.com/arnistoks/MD19_redux) TypeScript, CSS & React
-![rpsls](images/rpsls.gif "Rock Paper Scissors Lizard Spock")
+![lp](images/lawnmowers-page.gif "Lawnmowers Shop")
