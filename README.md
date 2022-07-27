@@ -19,17 +19,20 @@ You can find me on [CodinGame](https://www.codingame.com/home) as [TOXICS](https
 
 My favorite projects are:
 
-[Rock Paper Scissors Lizard Spock](https://github.com/arnistoks/MD32_rock-paper-scissors-lizard-spock) TypeScript, CSS & React. Try [here](https://starlit-tulumba-be2d34.netlify.app)!
-![rpsls](images/rpsls.gif "Rock Paper Scissors Lizard Spock")
-
-[Reaction Timer Game](https://github.com/arnistoks/reaction-timer-game) Vue CLI. Try [here](https://cheery-moonbeam-7f4378.netlify.app)!
-![rtg](images/reaction-timer-game.gif "Reaction Timer Game")
-
-[Pokemon Page](https://github.com/arnistoks/MD22_pokemons) TypeScript, CSS & React
-![pp](images/pokemon-page.gif "Pokemon Page")
+[Entry React Developer Test](https://github.com/arnistoks/entry-react-developer-test) JavaScript, CSS & React
+![erdt](images/entry-react-developer-test.gif "Entry React Developer Test")
 
 [Swedbank Website](https://github.com/arnistoks/MD21_swedbank) TypeScript, CSS & React
 ![sp](images/swedbank-page.gif "Swedbank Page")
 
 [Lawnmowers Shop](https://github.com/arnistoks/MD19_redux) TypeScript, CSS & React
 ![lp](images/lawnmowers-page.gif "Lawnmowers Shop")
+
+[Pokemon Page](https://github.com/arnistoks/MD22_pokemons) TypeScript, CSS & React
+![pp](images/pokemon-page.gif "Pokemon Page")
+
+[Rock Paper Scissors Lizard Spock](https://github.com/arnistoks/MD32_rock-paper-scissors-lizard-spock) TypeScript, CSS & React. Try [here](https://starlit-tulumba-be2d34.netlify.app)!
+![rpsls](images/rpsls.gif "Rock Paper Scissors Lizard Spock")
+
+[Reaction Timer Game](https://github.com/arnistoks/reaction-timer-game) Vue CLI. Try [here](https://cheery-moonbeam-7f4378.netlify.app)!
+![rtg](images/reaction-timer-game.gif "Reaction Timer Game")
