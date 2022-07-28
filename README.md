@@ -36,3 +36,6 @@ My favorite projects are:
 
 [Reaction Timer Game](https://github.com/arnistoks/reaction-timer-game) Vue CLI. Try [here](https://cheery-moonbeam-7f4378.netlify.app)!
 ![rtg](images/reaction-timer-game.gif "Reaction Timer Game")
+
+[Iepazīsti mani](https://github.com/arnistoks/iepazisti-mani) TypeScript, CSS & React.
+![rtg](images/iepazisti-mani.gif "Iepazīsti mani")
