@@ -43,6 +43,10 @@ My favorite projects are:
 
 ![m](images/minesweeper.gif "Minesweeper")
 
+[TIC TAC TOE](https://github.com/arnistoks/tic-tac-toe) JavaScript, CSS & React. Try [here](https://sprightly-dasik-bae507.netlify.app)!
+
+![ttt](images/tic-tac-toe.gif "TIC TAC TOE")
+
 [Reaction Timer Game](https://github.com/arnistoks/reaction-timer-game) Vue CLI. Try [here](https://cheery-moonbeam-7f4378.netlify.app)!
 
 ![rtg](images/reaction-timer-game.gif "Reaction Timer Game")
