@@ -43,7 +43,7 @@ My favorite projects are:
 
 ![m](images/minesweeper.gif "Minesweeper")
 
-[TIC TAC TOE](https://github.com/arnistoks/tic-tac-toe) JavaScript, CSS & React. Try [here](https://sprightly-dasik-bae507.netlify.app)!
+[TIC TAC TOE](https://github.com/arnistoks/tic-tac-toe) JavaScript, CSS & React. Try [here](https://benevolent-wisp-371911.netlify.app)!
 
 ![ttt](images/tic-tac-toe.gif "TIC TAC TOE")
 
