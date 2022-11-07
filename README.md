@@ -19,6 +19,11 @@ You can find me on [CodinGame](https://www.codingame.com/home) as [TOXICS](https
 
 My favorite projects are:
 
+
+[Countries](https://github.com/arnistoks/countries) JavaScript, CSS & React
+
+![c](images/countries.gif "Countries")
+
 [Entry React Developer Test](https://github.com/arnistoks/entry-react-developer-test) JavaScript, CSS & React
 
 ![erdt](images/entry-react-developer-test.gif "Entry React Developer Test")
